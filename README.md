@@ -1,6 +1,7 @@
 # Instagram_Influencers
-INSTAGRAM INFLUENCER ANALYSIS PROJECT
+
 Overview
+
 
 The objective of the analysis is to examine the worldwide influence of prominent Instagram influencers, specifically investigating their reach, level of interaction, and relationships with the global population. The methodology entails using databases that encompass data on Instagram influencers and global population statistics, integrating them to extract significant insights.
 
