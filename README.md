@@ -20,7 +20,8 @@ Get it here https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-d
 
 How to Use
 
-Clone the repository: git clone https://github.com/muigaimuiruri/Instagram_Influencers.git
+Clone the repository: git clone https://github.com/muigaimuiruri/Instagram_Influencers_Analysis
+
 Install required libraries
 Run Jupyter notebooks for analysis: jupyter notebook
 
